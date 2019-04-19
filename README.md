@@ -5,6 +5,7 @@ The data comes from The [Census Income Data Set](http://archive.ics.uci.edu/ml/d
 
 **The purpose of classification is to predict, whether an income exceeds 50k per year.**
 
+[Python notebook](https://github.com/Mawielobob/Adult_income_classification/blob/master/Adult_income_classification.ipynb)
 
 Data set contains:
 * age: 16 -100 
