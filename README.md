@@ -10,7 +10,7 @@ The data comes from The [Census Income Data Set](http://archive.ics.uci.edu/ml/d
 Data set contains:
 * age: 16 -100 
 * workclass: employment sector (whether the person is employed in a private, gov or other) 
-* fnlwgt (continuous values) - sampling weight, more info here: [SIPP Weighting](http://www.census.gov/sipp/weights.html) 
+* fnlwgt (continuous values) - sampling weight
 * education: grade of education 
 * education-num: grade of education numeric, sorted 
 * marital-status: marital status of the person
@@ -23,4 +23,4 @@ Data set contains:
 * native-country - home country
 * Target: >50K, <=50K - values ​​showing, whether a person will earn more than 50k per year on not (binary feature).
 
-Data comes from 1994, so of course it is just an education set :).
+Data comes from 1994 :).
